@@ -1,0 +1,15 @@
+# Gradle
+.gradle/
+bin/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+
+# Mac
+**/.DS_Store
+/.apt_generated/
+/.apt_generated_tests/
